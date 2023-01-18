@@ -110,6 +110,10 @@ a:hover {
     background-color: var(--bg-alpha-color);
 }
 
+.bg-second-alpha-color{
+    background-color: var(--second-alpha-color);
+}
+
 .bg-hero-image{
     background-image: var(--bg-image);
     background-repeat: no-repeat;

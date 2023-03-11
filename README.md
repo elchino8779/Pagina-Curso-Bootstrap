@@ -8,7 +8,7 @@
     <h2 align="center"> 🛠️ Especificaciones:</h2>
     <h3>
         Este proyecto fue creado con el curso de BootStrap de JonMircha en YouTube. <br>
-        Desarrolladoen HTML, CSS y BootsTrap. <br>
+        Desarrolladoen HTML, CSS y BootStrap. <br>
         Pagina de contenido basada en una web con fines educativos.
     </h3>
 </div>

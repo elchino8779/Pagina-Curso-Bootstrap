@@ -8,7 +8,7 @@
     <h2 align="center"> 🛠️ Especificaciones:</h2>
     <h3>
         Este proyecto fue creado con el curso de BootStrap de JonMircha en YouTube. <br>
-        Desarrolladoen HTML, CSS y BootStrap. <br>
+        Desarrollado en HTML, CSS y BootStrap. <br>
         Pagina de contenido basada en una web con fines educativos.
     </h3>
 </div>
@@ -19,7 +19,7 @@
     <h2>💾 Datos:</h2>
     <br>
         Se utilizaron y modificaron clases de BootStrap<br>
-        Se utilizaron diferentes componentes como carruseles de imagenes, apis de Google Maps y formularios<br>
+        Se utilizaron diferentes componentes como carruseles de imagenes, apis de Google Maps, formularios, etc<br>
         Totalmente resposiva utilizando mediaQuerys de BootStrap<br>
 </div>
 

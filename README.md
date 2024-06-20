@@ -28,21 +28,21 @@
 
 <div id="capturas" align="center">
     <h3 align="left"> 📷 Capturas:</h3>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img01.png?raw=true" alt="Cap1" width="900">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img01.png?raw=true" alt="Cap1" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img02.png?raw=true" alt="Cap2" width="900">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img02.png?raw=true" alt="Cap2" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img03.png?raw=true" alt="Cap3" width="900">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img03.png?raw=true" alt="Cap3" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img04.png?raw=true" alt="Cap4" width="900">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img04.png?raw=true" alt="Cap4" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img05.png?raw=true" alt="Cap5" width="900">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img05.png?raw=true" alt="Cap5" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img06.png?raw=true" alt="Cap6" width="900">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img06.png?raw=true" alt="Cap6" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img07.png?raw=true" alt="Cap7" width="900">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img07.png?raw=true" alt="Cap7" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img08.png?raw=true" alt="Cap8" width="900">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img08.png?raw=true" alt="Cap8" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img09.png?raw=true" alt="Cap9" width="900">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/CursoBootStrap/img09.png?raw=true" alt="Cap9" width="800">
 </div>

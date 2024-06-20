@@ -4,10 +4,10 @@
 
 ---
 
-<div id="caracteristicas">
+<div id="datos">
     <h3>✔️ Datos:</h3>
     <p>
-        🔹 Este proyecto fue creado en el curso de BootStrap del edutuber <a href="https://github.com/jonmircha" target="_blank">JonMircha</a> <br>
+        🔹 Este proyecto fue creado en el curso de BootStrap del Edutuber <a href="https://github.com/jonmircha" target="_blank">JonMircha</a> <br>
         🔹 Desarrollado en HTML, CSS y BootStrap <br>
         🔹 Pagina de contenido basada en una web con fines educativos
     </p>
@@ -16,11 +16,11 @@
 ---
 
 <div id="caracteristicas">
-    <h3>⚙️ Caracteristicas:</h3>
+    <h3>⚙️ Características:</h3>
     <p>
         🔸 Se utilizaron y modificaron clases de BootStrap<br>
-        🔸 Se utilizaron componentes como carruseles de imagenes, apis de Google Maps, formularios, etc.<br>
-        🔸 Totalmente resposiva utilizando mediaQuerys de BootStrap<br>
+        🔸 Se utilizaron componentes como carruseles de imágenes, APIs de Google Maps, formularios, etc.<br>
+        🔸 Totalmente responsiva utilizando mediaQuerys de BootStrap<br>
     </p>
 </div>
 
